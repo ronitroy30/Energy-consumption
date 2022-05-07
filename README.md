@@ -4,8 +4,7 @@
 
 This dashboard has a goal to provide an easy access to information related to types of energy consumed at every
 country and multiple regions over the last few decades. If you are interested in climate change and transition to
-energy sources, this dashboard may bring you some insight! More details about potential usage of this dashboard
-can be found in the [proposal document](doc/proposal.md).
+energy sources, this dashboard may bring you some insight!
 
 ## Table of Content
 
