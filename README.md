@@ -68,7 +68,7 @@ Pontential features include:
 * Visualization of locations & production of power plants
 * Trends of energy consumption & producton by individual source of energy
 
-You are also welcomed to raise new ideas and report any existing bugs. Please go through the [contributing guidelines](CONTRIBUTING.md) for the recommended ways to do so.
+You are also welcomed to raise new ideas and report any existing bugs. 
 
 ### How to install and run locally
 
