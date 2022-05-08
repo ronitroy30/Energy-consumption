@@ -53,12 +53,7 @@ other or with certain regions.
 
 ## Contributing to this Dashboard
 
-If you have any ideas regarding to this project and wish to help, you are welcome to contribute.
-
-### Calling for developer
-
-The dashboard currently have implemented all the basic functionality, yet there are some potential enhancements and
-additional features. We welcome all contributors to help with implementation of the following features.  
+If you have any ideas regarding to this project and wish to help, you are welcome to contribute.  
 
 ### What do we need
 
@@ -97,12 +92,6 @@ python src/app.py
 
 The dashboard could then be accessed locally in <localhost:8050>, and you are good to go!
 
-#### Via Docker Compose
-Alternatively, you could run the dashboard locally in a Docker container with [docker compose](https://docs.docker.com/compose/). Run the following command at the root directory of the project:
-```
-docker-compose up
-```
-The dashboard would be then available at http://localhost:8000/
 ### Contributing Guidelines
 
 You may also please review our [contributing guidelines](CONTRIBUTING.md) for more information.
